@@ -1,0 +1,2 @@
+Username: django
+Password: Django_girls
